@@ -1,10 +1,9 @@
 # Datos del alumno/a
 
-Nombre: Tu nombre y Dos apellidos
+Nombre: Javier Callejo Lobón
 
-Curso: 1DAW o 2DAW
+Curso: 1DAW
 
-Email: tu email de IES Luis Vives o EducaMadrid
+Email: javier.callejo3@educa.madrid.org
 
-Nick GitHub: Tu nick de GitHub
-
+Nick GitHub: xRufz
